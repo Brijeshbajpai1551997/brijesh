@@ -1,2 +1,0 @@
-#Display
-print("hello word")
